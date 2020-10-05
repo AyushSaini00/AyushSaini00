@@ -14,6 +14,8 @@
 <br />
 <br />
 
+![](https://komarev.com/ghpvc/?username=AyushSaini00&color=blueviolet)
+
 - 📫 How to reach me: [AyushSaini](https://ayushsaini00.github.io/myportfolio/index.html)
 - ⚡ I can also code in C, C++, Python
   
