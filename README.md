@@ -14,8 +14,8 @@
 <br />
 <br />
 
-- 👯 I’m looking to collaborate on Front-end development Projects
 - 📫 How to reach me: [AyushSaini](https://ayushsaini00.github.io/myportfolio/index.html)
+- ⚡ I can also code in C, C++, Python
   
 <!--
 **AyushSaini00/AyushSaini00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
