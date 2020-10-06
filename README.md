@@ -1,4 +1,4 @@
-﻿[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://raw.githubusercontent.com/AyushSaini00/AyushSaini00/master/images/github-header.png)
+﻿[![Header](https://raw.githubusercontent.com/AyushSaini00/AyushSaini00/master/images/github-header.png)](https://ayushsaini00.github.io/myportfolio/index.html)
 
 ### Hi there, I'm Ayush 👋
 <a href="https://www.linkedin.com/in/ayushsaini/">
