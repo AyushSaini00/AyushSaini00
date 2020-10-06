@@ -1,3 +1,5 @@
+﻿[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://raw.githubusercontent.com/AyushSaini00/AyushSaini00/master/images/github-header.png)
+
 ### Hi there, I'm Ayush 👋
 <a href="https://www.linkedin.com/in/ayushsaini/">
   <img align="left" alt="Ayush Saini - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
