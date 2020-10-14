@@ -18,6 +18,8 @@
 
 ![](https://komarev.com/ghpvc/?username=AyushSaini00&color=blueviolet)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U02EQ8O)
+
 - 📫 How to reach me: [AyushSaini](https://ayushsaini00.github.io/myportfolio/index.html)
 - ⚡ I can also code in C, C++, Python
   
