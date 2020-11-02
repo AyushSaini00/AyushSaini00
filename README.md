@@ -23,6 +23,8 @@
 - 📫 How to reach me: [AyushSaini](https://ayushsaini00.github.io/myportfolio/index.html)
 - ⚡ I can also code in C, C++, Python
   
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaini00&langs_count=10)](https://github.com/AyushSaini00/github-readme-stats)
 <!--
 **AyushSaini00/AyushSaini00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
