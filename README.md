@@ -7,7 +7,7 @@
 <a href="mailto:ayushsainiiitb00@gmail.com">
   <img align="left" alt="Ayush Saini - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
-<a href="https://ayushsaini00.github.io/myportfolio/index.html">
+<a href="https://ayushsaini.netlify.app/">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
 <a href="https://codepen.io/saini-ayush">
@@ -18,9 +18,9 @@
 
 ![](https://komarev.com/ghpvc/?username=AyushSaini00&color=blueviolet)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U02EQ8O)
 
-- 📫 How to reach me: [AyushSaini](https://ayushsaini00.github.io/myportfolio/index.html)
+
+- 📫 How to reach me: [Say Hello](mailto:ayushsainiiitb00@gmail.com)
 - ⚡ I can also code in C, C++, Python
   
 
@@ -29,7 +29,7 @@
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushSaini00&show_icons=true&theme=cobalt)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaini00&langs_count=10)](https://github.com/AyushSaini00/github-readme-stats)
 Here are some ideas to get you started:
-
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U02EQ8O)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
