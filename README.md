@@ -23,11 +23,11 @@
 - 📫 How to reach me: [Say Hello](mailto:ayushsainiiitb00@gmail.com)
 - ⚡ I can also code in C, C++, Python
   
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaini00&langs_count=10&theme=radical)](https://github.com/AyushSaini00/github-readme-stats)
 <!--
 **AyushSaini00/AyushSaini00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=AyushSaini00&show_icons=true&theme=cobalt)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSaini00&langs_count=10)](https://github.com/AyushSaini00/github-readme-stats)
+
 Here are some ideas to get you started:
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U02EQ8O)
 - 🔭 I’m currently working on ...
