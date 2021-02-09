@@ -10,7 +10,7 @@
 <a href="https://ayushsaini.netlify.app/">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
-<a href="https://codepen.io/saini-ayush">
+<a href="https://codepen.io/AyushSaini00">
   <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg"/>
 </a>
 <br />
