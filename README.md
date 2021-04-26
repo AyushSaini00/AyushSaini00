@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h2 align="center">Web Dev ⚡ | Building Stuff with code 🚀 | Making web a better place 🙌</h2>
+<h3 align="center">Web Dev ⚡ | Building Stuff with code 🚀 | Making web a better place 🙌</h3>
 
 <br>
 
