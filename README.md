@@ -1,36 +1,14 @@
-﻿<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Web Dev ⚡ | Building Stuff with code 🚀 | Making web a better place 🙌</h3>
+﻿<h2 align="center">Hi 👋, I'm Ayush</h2>
+<p align="center">Loves building front-end and almost everything that revolves around Javascript 💛</p>
 
-<br>
+<p align="center">Besides programming, you will find me writing (<a href="https://www.ayushsaini.com/blog">Read my articles</a>) and reading blog (mostly tech related) & books, <a href="https://www.twitter.com/AyushCodes">tweeting</a> random stuff (again, mostly tech related) xD</p>
 
-### My Tech Stack
+&nbsp;
 
-<img align="left" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<p align="center">If you like my projects and want to see me build more, I'd highly appreciate your support. Consider buying me some <a href="https://buymeacoffee.com/ayushsaini">paneer curry</a> 😋</p>
 
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+&nbsp;
 
-<img align="left" alt="Reactjs" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-
-<img align="left" alt="Nextjs" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
-
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-
-<img align="left" alt="Figma" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-
-<img align="left" alt="Adobe XD" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" />
-
-<img align="left" alt="Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-
-<img align="left" alt="Gatsby" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/AyushSaini00/AyushSaini00/master/images/tbbt.gif" alt="live long and prosper.">
+</p>
