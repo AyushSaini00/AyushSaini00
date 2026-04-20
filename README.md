@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Ayush
 
-Full-stack engineer. I like building things, breaking them, and building them better.
+Full-stack engineer. I like to build things!
 
 ### Recent Experiments
 
