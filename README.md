@@ -4,6 +4,7 @@ Full-stack engineer. I like to build things!
 
 ### Recent Experiments
 
+- **[MirAIe AC Control](https://www.raycast.com/ayush_saini/miraie-ac-control)** Control your Panasonic MirAIe ACs directly from Raycast.
 - **[Simple Sync Engine](https://github.com/AyushSaini00/simple-sync-engine)** tiny Sync Engine for React and MongoDB apps.
 - **[Prop Detective](https://github.com/AyushSaini00/prop-detective)** CLI to analyze prop drilling patterns in React apps.
 
