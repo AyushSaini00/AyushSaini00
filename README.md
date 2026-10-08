@@ -4,9 +4,8 @@ Full-stack engineer. I like to build things!
 
 ### Recent Experiments
 
+- **[Stage Left](https://github.com/AyushSaini00/stage-left-releases)** MacOS menu bar app to snaps windows next to the Stage Manager strip
 - **[MirAIe AC Control](https://www.raycast.com/ayush_saini/miraie-ac-control)** Control your Panasonic MirAIe ACs directly from Raycast.
-- **[Simple Sync Engine](https://github.com/AyushSaini00/simple-sync-engine)** tiny Sync Engine for React and MongoDB apps.
-- **[Prop Detective](https://github.com/AyushSaini00/prop-detective)** CLI to analyze prop drilling patterns in React apps.
 
 ### Past Projects
 
@@ -17,3 +16,5 @@ Full-stack engineer. I like to build things!
 - **[Account Recall](https://chromewebstore.google.com/detail/account-recall/kpaajfgmlfombpdeodmcejpenkagnkig)** Chrome extension to remember which account you used to sign up for websites.
 - **[Tbio](https://tbio.vercel.app/)** create custom twitter bios based on mood.
 - **[Twitter Wrap](https://twitter-wrap.vercel.app/)** An app that wraps Twitter for you, imagine spotify wrapped but for twitter. Reached 5k+ users.
+- **[Simple Sync Engine](https://github.com/AyushSaini00/simple-sync-engine)** tiny Sync Engine for React and MongoDB apps.
+- **[Prop Detective](https://github.com/AyushSaini00/prop-detective)** CLI to analyze prop drilling patterns in React apps.
