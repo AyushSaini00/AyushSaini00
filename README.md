@@ -4,6 +4,7 @@ Full-stack engineer. I like to build things!
 
 ### Recent Experiments
 
+- **[MixTape](https://github.com/AyushSaini00/mixtape)** Track your YouTube Music listening from the terminal.
 - **[Stage Left](https://github.com/AyushSaini00/stage-left-releases)** MacOS menu bar app to snaps windows next to the Stage Manager strip
 - **[MirAIe AC Control](https://www.raycast.com/ayush_saini/miraie-ac-control)** Control your Panasonic MirAIe ACs directly from Raycast.
 
